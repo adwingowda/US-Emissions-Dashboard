@@ -122,9 +122,9 @@
             "name": "a257912f",
             "multilineTextboxSpec": {
               "lines": [
-                "<span style=\"text-align:center;display:block\"><span style=\"font-weight: 700;font-size: 36px;line-height: 1.5;\">United States Emissions Breakdown</span></span>\n",
+                "<span style=\"text-align:center;display:block;\"><span style=\"font-weight:700;font-size:36px;line-height:1.5\">United States Emissions Breakdown</span></span>\n",
                 "\n",
-                "<span style=\"text-align:center;display:block\"><span style=\"font-weight: 500;\">This data was collected by EPA(Environmental Protection Agency) in 2023.</span></span>"
+                "<span style=\"text-align:center;display:block;\"><span style=\"font-weight:500\">This data was collected by EPA(Environmental Protection Agency) in 2023.</span></span>"
               ]
             }
           },
